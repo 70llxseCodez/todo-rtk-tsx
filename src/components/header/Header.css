@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    align-items: center;
+    background: linear-gradient(90deg, rgb(42, 233, 42), rgb(106, 106, 250));
+}
+
+.header a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+    margin: 20px;
+}

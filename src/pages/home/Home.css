@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.item {
+    justify-content: space-between;
+}
